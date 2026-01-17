@@ -1,5 +1,5 @@
 # DevelopersHu-Phase2-Task4
-## Task 3 / Task 4: Loan Default Risk with Business Cost Optimization
+## Task 4: Loan Default Risk with Business Cost Optimization
 
 **Objective:**  
 Predict the likelihood of loan default and optimize decision-making using cost-benefit analysis to minimize financial loss.
