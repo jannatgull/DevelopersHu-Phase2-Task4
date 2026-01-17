@@ -33,17 +33,6 @@ Home Credit Default Risk Dataset – contains information about applicants, loan
 
 ---
 
-## General Skills Gained Across All Projects
-
-- Data cleaning, preprocessing, and encoding  
-- Supervised and unsupervised learning techniques  
-- Model evaluation using multiple performance metrics  
-- Explainable AI (SHAP/LIME)  
-- Risk analysis and cost optimization  
-- Business-driven insights and strategy formulation  
-
----
-
 ### Conclusion
 
 These projects demonstrate a **complete end-to-end workflow** from **data exploration and preprocessing**, to **modeling, evaluation, and interpretability**, while considering **business objectives**. They showcase the application of machine learning to **predict customer behavior, segment clients, and optimize financial decisions**, preparing students and professionals for real-world data-driven decision-making in banking and retail sectors.
